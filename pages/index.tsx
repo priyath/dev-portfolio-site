@@ -11,6 +11,8 @@ const Home: NextPage = () => {
     dark: 'gray.400'
   };
 
+  console.log('test');
+
   return (
     <Container>
       <Head>
